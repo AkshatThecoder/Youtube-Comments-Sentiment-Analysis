@@ -5,7 +5,6 @@ This project analyzes **YouTube video comments** and classifies them as **positi
 
 ## ✨ Features  
 ✅ **Real-time Sentiment Analysis**: Classifies comments as **positive, negative, or neutral**  
-✅ **YouTube API Integration**: Fetches comments directly from **YouTube videos**  
 ✅ **Text Preprocessing**: Cleans and tokenizes comments for better model accuracy  
 ✅ **ML Model for Sentiment Classification**: Uses **NLTK**, **VADER**, or **Transformer-based models**  
 
