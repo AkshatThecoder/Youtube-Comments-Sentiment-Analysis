@@ -29,7 +29,7 @@ This project analyzes **YouTube video comments** and classifies them as **positi
 ### 3️⃣ View sentiment breakdown & insights
 
 
-This project is licensed under the MIT License.#
+This project is licensed under the **MIT License**.
 
 
 
